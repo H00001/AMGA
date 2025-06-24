@@ -5,3 +5,7 @@
 
 ## FIAD
 [Graph anomaly detection framework based feature injection](https://www.sciencedirect.com/science/article/pii/S0957417424020839)
+
+
+dataset 
+https://github.com/safe-graph/graph-fraud-detection-papers?tab=readme-ov-file
