@@ -7,8 +7,6 @@
 [Graph anomaly detection framework based feature injection](https://www.sciencedirect.com/science/article/pii/S0957417424020839)
 
 
-dataset 
+## dataset 
 https://github.com/safe-graph/graph-fraud-detection-papers?tab=readme-ov-file
-
-
 https://github.com/pygod-team/data/
